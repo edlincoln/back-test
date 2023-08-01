@@ -17,7 +17,6 @@ To run the application, we have provided a Docker image. To execute it, follow t
 
 * mvn clean package
 * docker build -t back-test-app .
-* docker run -p 8080:8080 back-test-app
 
 Next, we execute the "docker-compose.yml" file located at:
 
